@@ -51,7 +51,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Demo link <a name="key-features"></a>
-(Coming soon ...)
+(Coming soon ....)
 
 
 ## 👥 Authors <a name="authors"></a>
